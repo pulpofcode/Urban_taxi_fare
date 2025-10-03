@@ -60,7 +60,7 @@ A Machine Learning project that predicts **taxi fares in NYC** based on trip det
 ## 🖼 Screenshots & Example Predictions  
 
 **Dashboard Screenshot:**  
-![Dashboard Screenshot](path_to_screenshot.png)  
+![Dashboard Screenshot](Screenshot.png)
 
 **Example Prediction:**  
 - **Pickup Location:** 40.7580, -73.9855  
@@ -75,4 +75,5 @@ A Machine Learning project that predicts **taxi fares in NYC** based on trip det
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 ---
+
 
