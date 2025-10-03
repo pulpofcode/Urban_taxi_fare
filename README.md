@@ -3,6 +3,8 @@
 
 A Machine Learning project that predicts **taxi fares in NYC** based on trip details such as pickup/dropoff locations, datetime, and passenger count. The project also includes an **interactive Streamlit dashboard** for visualization and real-time predictions.  
 
+> ⚠️ **Note:** The trained model file is too large to include in this repository.  
+
 ---
 
 ## 📌 Features  
@@ -55,7 +57,22 @@ A Machine Learning project that predicts **taxi fares in NYC** based on trip det
 
 ---
 
+## 🖼 Screenshots & Example Predictions  
+
+**Dashboard Screenshot:**  
+![Dashboard Screenshot](path_to_screenshot.png)  
+
+**Example Prediction:**  
+- **Pickup Location:** 40.7580, -73.9855  
+- **Dropoff Location:** 40.7128, -74.0060  
+- **Datetime:** 2025-10-03 15:30  
+- **Passenger Count:** 2  
+- **Predicted Fare:** $15.75
+
+---
+
 ## 📜 License  
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 
 ---
+
